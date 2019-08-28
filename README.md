@@ -1,9 +1,6 @@
 # compassapi
 Create api for company compass.
 
-
-https://github.com/Conpass/challenges/blob/master/Backend-Challenge.md
-
 git clone.
 
 npm install
